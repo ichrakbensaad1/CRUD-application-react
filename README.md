@@ -1,15 +1,12 @@
 # MERN CRUD Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
-
+<img src="Capture1.PNG"/>
 <img src="Capture.PNG"  />
- <img src="Capture1.PNG"/>
+
 ## Key Features
-* Authentication using jsonwebtoken (jwt) ,Google auth and Github
-* Multiple user registration
-* Account confirmation with email
-* Reset password feature
-* Manage tasks add update and delete tasks
-* Display all tasks
+
+* Authentication using name,email,password,gender.
+* Display all users
  
 
 
