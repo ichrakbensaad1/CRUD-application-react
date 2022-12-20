@@ -8,8 +8,9 @@ Built with the MERN stack (MongoDB, Express, React and NodeJS).
 * Reset password feature
 * Manage tasks add update and delete tasks
 * Display all tasks
+ <img src="capteur.PNG"  />
+ <img src="capteur1.PNG"/>
 
-.png)
 
 # Technologies used
 This project was created using the following technologies.
