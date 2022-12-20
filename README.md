@@ -9,7 +9,7 @@ Built with the MERN stack (MongoDB, Express, React and NodeJS).
 * Manage tasks add update and delete tasks
 * Display all tasks
 
-![image](https://user-images.githubusercontent.com/79003907/206995414-ba22b3a3-1a40-4239-9139-030fd013565e.png)
+.png)
 
 # Technologies used
 This project was created using the following technologies.
@@ -45,7 +45,7 @@ In order to run this project locally, simply fork and clone the repository or do
 * Open the project in your prefered code editor.
 * Go to terminal -> New terminal (If you are using VS code)
 * Split your terminal into two (run the client on one terminal and the server on the other terminal)
-
+ <img src="image.png"  />
 In the first terminal
 ```
 $ cd front
