@@ -1,8 +1,8 @@
 # MERN CRUD Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
-<img src="capteur.PNG"  />
- <img src="capteur1.PNG"/>
+<img src="Capture.PNG"  />
+ <img src="Capteur1.PNG"/>
 ## Key Features
 * Authentication using jsonwebtoken (jwt) ,Google auth and Github
 * Multiple user registration
